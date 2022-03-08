@@ -50,4 +50,4 @@ And near the bottom of the page you can view the choropleth, proportion sunburst
 
 To view the web app please see the link below:
 
-[Dashborad App](https://covid-19-tracking-dashapp.ue.r.appspot.com/) (Website is no longer being updated with data as of 01/01/2021)
+[Dashborad App](https://covid-19-tracking-dashapp.ue.r.appspot.com/) (Website is no longer available)
